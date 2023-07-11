@@ -1,0 +1,318 @@
+header{
+  width: 100%;
+    
+}
+.ayush{
+    width:100%;
+    height: 50px;
+    background-color: rgb(0, 38, 128);
+    color: white;
+
+
+}
+.book{
+  cursor: pointer;
+  color: #fff;
+}
+.book:hover{
+  color: goldenrod;
+}
+.logo {
+    width: 80px;
+    height: 70px;
+    margin-left: 80px;
+}
+.mail{
+
+    margin-left: 130px;
+    margin-top: 10px;
+}
+.call{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.insta{
+    margin-left:600px;
+    margin-top: 10px;
+    
+
+}
+.whats{
+    margin-left: 25px;
+    margin-top: 10px;
+
+}
+.twit{
+    margin-left: 25px;
+    margin-top: 10px;
+
+}
+.grand{
+  cursor: pointer;
+  color:#fff;
+  caret-color: green;
+  
+
+}
+.grand:hover{
+  color:gold;
+  font-style: italic;
+  
+}
+.rush,img{
+  margin-right: 50px;
+  
+}
+
+
+.bg{
+    width: 100%;
+    height: 70vh;
+    padding-top: 50px;
+}
+.head{
+  margin-left: 35px;
+}
+.para{
+  margin-left: 35px;
+}
+.cont {
+    max-width: 300px;
+    margin: 0 auto;
+    border-radius: 10px;
+    
+    background-color:white;
+    border: solid lightgray;
+    box-shadow: 10px 10px 75px 10px rgba(23, 22, 23, 0.844);
+  
+}
+
+  .cont h3 {
+    text-align: center;
+    background-color:rgb(235, 210, 50);
+    padding: 5px;
+  }
+
+  .cont label {
+    display: block;
+    margin-bottom: 10px;
+    
+  }
+
+  .cont input[type="text"],
+  .cont input[type="email"],
+  .cont input[type="phone"],
+  .cont input[type="textarea"] {
+    width: 80%;
+    padding: 10px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    
+  }
+
+  .cont input[type="submit"] {
+    width: 80%;
+    margin-bottom: 18px;
+    padding: 5px;
+    background-color: #109137;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 30px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .cont input[type="submit"]:hover {
+    background-color: #110426;
+    color: gold;
+  }
+  main{
+    width: 100%;
+  }
+  .course{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(215, 212, 212);
+  
+  }
+  .card title{
+    text-align: center;
+  }
+  .course img card h5{
+    width:auto;
+    transition: transform .4s;
+  }
+  .course .card:hover{
+    transform: scale(1.1);
+  }
+  .tab{
+    height: 60vh;
+    width: 100%;
+  }
+  table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 150px;
+    margin-top: 30px;
+    border: 1px solid gray;
+    border-radius: 3px;
+  }
+  
+  th , td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color:rgb(4, 4, 38);
+    color: white;
+  }
+  .trb{
+    text-align: center;
+    margin-top: 30px;
+    color: gray;
+  }
+  .cab{
+    width: 100%;
+    height: 40vh;
+    background-color: lightgrey;
+    float: left;
+  }
+  .bloom{
+   width: 100px;
+   height: 100px;
+   
+  }
+  .fig{
+    border: 1px solid rgb(246, 241, 241);
+    justify-content: center;
+    align-items: center;
+    background-color: #f6f4f4;
+    color: black;
+    border-radius: 5px;
+  }
+  .fig img{
+    margin-left: 130px;
+  }
+  .fig,figcaption{
+    padding: 5px;
+  }
+  .fair{
+    margin-top: 50px;
+  }
+  .why{
+    width: 100%;
+    height: 40vh;
+    
+    
+  }
+  .why h2{
+    text-align: center;
+  }
+.why h3{
+  color: crimson;
+}
+.feedback{
+  width: 100%;
+  height: 40vh;
+  background-image: url(https://e0.pxfuel.com/wallpapers/540/678/desktop-wallpaper-aesthetic-exo-novocom-top-exo-quotes.jpg);
+}
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.flex,h4,h1{
+  color:gold ;
+}
+.content{
+  margin-top: 100px;
+  color: white;
+}
+.caroul{
+  width: 100%;
+  height: 100vh;
+  background-color:wheat;
+  float: left;
+
+}
+.caroul,h3{
+  
+  text-align: center;
+}
+.card title{
+  text-align: center;
+}
+.caroul img card{
+
+  transition: transform .4s;
+}
+.caroul .card:hover{
+  transform: scale(1.1);
+}
+marquee{
+  background-color: gold;
+}
+.prince{
+  justify-content: center;
+  text-align: center;
+}
+.slide{
+  margin-top: 60px;
+
+}
+.slide,h5{
+  margin-left: 70px;
+}
+
+.pool{
+  margin-top: 80px;
+}
+.pana{
+  width: 100%;
+  height: 50vh;
+}
+.cool
+{
+  width: 80%;
+  height: 40vh;
+}
+.volvo{
+  cursor: pointer;
+  color: #fff;
+}
+.volvo:hover{
+  color: goldenrod;
+}
+.ammu{
+  width: 100%;
+  height: 100vh;
+  margin-top: 30px;
+}
+.shanu{
+ text-align: justify;
+ justify-content: center;
+}
+.shanu h2{
+ color:darkblue;
+}
+.mouni{
+  margin-top: 30px;
+}
+.dolby{
+  width: 100%;
+  height: 30vh;
+  background-color: #110426;
+  color: #ccc;
+}
+.hexa{
+  justify-content: center;
+  align-items: center;
+  
+}
